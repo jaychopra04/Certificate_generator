@@ -1,4 +1,4 @@
-# Certificate_generator
+# Certificate generator
 generate certificate with php
 Go to The Certificate folder download it in your sysytem.
 In this folder Open Certificate.php at your server and you can see the application.
